@@ -1,0 +1,30 @@
+{
+  "name": "tcs.com",
+  "version": "1.0.0",
+  "description": "The Cosmic Seeders",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusVeres/tcs.com.git"
+  },
+  "keywords": [
+    "The",
+    "Cosmic",
+    "Seeders",
+    "Cosmic",
+    "Seeders"
+  ],
+  "author": "Marcus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusVeres/tcs.com/issues"
+  },
+  "homepage": "https://github.com/MarcusVeres/tcs.com#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.6"
+  }
+}
